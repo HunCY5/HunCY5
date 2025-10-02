@@ -3,8 +3,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Swiftly+solving+problems+-+iOS+Developer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Swiftly+solving+problems+-+iOS+Developer" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6EDF3&width=800&lines=iOS+Developer+-+Swiftly+solving+problems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&width=800&lines=iOS+Developer+-+Swiftly+solving+problems" alt="Typing SVG" />
   </picture>
 </p>
 
@@ -23,6 +23,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
