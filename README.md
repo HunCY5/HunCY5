@@ -1,12 +1,14 @@
 
-<h2 style="border-bottom: 1px solid #21262d;"> 👋 Hi, I'm YongHun! </h2>  
+<div align="left">
+  <h1> 👋 Hi, I'm YongHun! </h1>
+</div>
 
-<p>
+<div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6EDF3&width=800&lines=iOS+Developer+-+Swiftly+solving+problems" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&width=800&lines=iOS+Developer+-+Swiftly+solving+problems" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E6EDF3&width=800&lines=Swiftly+solving+problems+-+iOS+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&width=800&lines=Swiftly+solving+problems+-+iOS+Developer" alt="Typing SVG" />
   </picture>
-</p>
+</div>
 
 <h2 style="border-bottom: 1px solid #21262d;"> 🛠️ Tech Stack </h2> 
 
