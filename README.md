@@ -6,7 +6,7 @@
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E6EDF3&width=800&lines=Swiftly+solving+problems+-+iOS+Developer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&width=800&lines=Swiftly+solving+problems+-+iOS+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&width=800&lines=Swiftly+solving+problems+-+iOS+Developer" alt="Typing SVG" />
   </picture>
 </div>
 
